@@ -1,8 +1,8 @@
 # **MC322- Turma <A,B,C>**
 
 # **Aluno**
-	Rebeca Ederlis
-	
+	Rebeca Ederli
+
 # **RA**
 	RA: 987654
 	
